@@ -14,3 +14,5 @@ A clear and concise description of what the bug is.
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS 15]
  - Version [e.g. 22] (can be found under "feedback" screen)
+
+**don't forget to select a project on the right side 👉**

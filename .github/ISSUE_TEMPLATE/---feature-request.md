@@ -12,3 +12,5 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
+
+**don't forget to select a project on the right side 👉**
