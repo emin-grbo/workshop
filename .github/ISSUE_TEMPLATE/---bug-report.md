@@ -7,10 +7,10 @@ assignees: roblack
 
 ---
 
-**Describe the bug**
+### Describe the bug
 A clear and concise description of what the bug is.
 
-**iPhone info:**
+### iPhone info:
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS 15]
  - Version [e.g. 22] (can be found under "feedback" screen)
