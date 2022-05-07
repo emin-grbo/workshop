@@ -7,7 +7,7 @@ if you want to reach out directly, there is always [twitter]
 
 to submit a localization, follow the steps bellow.
 
-**currenly localized for:** 🇺🇸🇬🇧🇷🇸
+**currenly localized for:** 🇺🇸🇬🇧🇷🇸🇪🇸
 #
 
 #### Step 1️⃣
