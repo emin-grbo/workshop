@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="SVRD/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
+  <file original="SVRD/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
     </header>
@@ -22,16 +22,6 @@
         <target>Un Apretón de Manos Está Disponible Bajo Demanda.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="ADS DISABLED" xml:space="preserve">
-        <source>ADS DISABLED</source>
-        <target>ANUNCIOS DESACTIVADOS</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="ADS ENABLED" xml:space="preserve">
-        <source>ADS ENABLED</source>
-        <target>ANUNCIOS ACTIVADOS</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="But I'm afraid you still don't mean it." xml:space="preserve">
         <source>But I'm afraid you still don't mean it.</source>
         <target>Me temo que todavía no lo dices en serio.</target>
@@ -42,6 +32,14 @@
 %@</source>
         <target>TARJETA ACTUAL:
 %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DISABLED" xml:space="preserve">
+        <source>DISABLED</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ENABLED" xml:space="preserve">
+        <source>ENABLED</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Employee #%lld" xml:space="preserve">
@@ -111,6 +109,19 @@ tú no lo eres</target>
       <trans-unit id="NOTHING" xml:space="preserve">
         <source>NOTHING</source>
         <target>NADA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New in" xml:space="preserve">
+        <source>New in</source>
+        <target>Novedades en</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OFF" xml:space="preserve">
+        <source>OFF</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ON" xml:space="preserve">
+        <source>ON</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OWNED" xml:space="preserve">
@@ -198,6 +209,11 @@ tú no lo eres</target>
         <target>Bajo demanda, también puedo dar abrazos.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Version %@" xml:space="preserve">
+        <source>Version %@</source>
+        <target>Versión %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Welcome,&#10;%@" xml:space="preserve">
         <source>Welcome,
 %@</source>
@@ -235,9 +251,17 @@ Y has ganado:</target>
         <target>Tu tarjeta de empleado parece contener anuncios.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="[%@]" xml:space="preserve">
+        <source>[%@]</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="[eval]" xml:space="preserve">
         <source>[eval]</source>
         <target>[eval]</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ads" xml:space="preserve">
+        <source>ads</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="again" xml:space="preserve">
@@ -250,9 +274,23 @@ Y has ganado:</target>
         <target>comprar por %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="by emin" xml:space="preserve">
+        <source>by emin</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="employee" xml:space="preserve">
         <source>employee</source>
         <target>empleado</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="great" xml:space="preserve">
+        <source>great</source>
+        <target>Bien</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="help us localize" xml:space="preserve">
+        <source>help us localize</source>
+        <target>ayúdanos a localizar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="how to play" xml:space="preserve">
@@ -265,6 +303,11 @@ Y has ganado:</target>
         <target>inserte una tarjeta para iniciar el juego.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="leave a review" xml:space="preserve">
+        <source>leave a review</source>
+        <target>deja un comentario</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="level" xml:space="preserve">
         <source>level</source>
         <target>nivel</target>
@@ -275,9 +318,34 @@ Y has ganado:</target>
         <target>nivel %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="made with" xml:space="preserve">
+        <source>made with</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="no ads" xml:space="preserve">
+        <source>no ads</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="view shop" xml:space="preserve">
+        <source>view shop</source>
+        <target>tienda</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="• added lock assist button&#10;• change difficulty mid-game&#10;• added sounds to success&#10;• added sounds for failure&#10;• code cleanup" xml:space="preserve">
+        <source>• added lock assist button
+• change difficulty mid-game
+• added sounds to success
+• added sounds for failure
+• code cleanup</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="↓ Care to upgrade? ↓" xml:space="preserve">
         <source>↓ Care to upgrade? ↓</source>
         <target>↓ ¿Quieres suscribirte? ↓</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="🎉" xml:space="preserve">
+        <source>🎉</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>

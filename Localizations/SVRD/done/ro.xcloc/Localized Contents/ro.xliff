@@ -1,155 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="SVRD/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="sr">
+  <file original="SVRD/en.lproj/InfoPlist.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>SVRD</source>
+        <target>SVRD</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
-  <file original="SVRD/en.lproj/Localizable.strings" source-language="en" target-language="sr" datatype="plaintext">
+  <file original="SVRD/en.lproj/Localizable.strings" source-language="en" target-language="ro" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
     </header>
     <body>
       <trans-unit id="A Handshake Is Available Upon Request." xml:space="preserve">
         <source>A Handshake Is Available Upon Request.</source>
-        <target>Stisak ruke je dozvoljen nakon zahteva.</target>
+        <target>O strângere de mână e posibilă la cerere.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="But I'm afraid you still don't mean it." xml:space="preserve">
         <source>But I'm afraid you still don't mean it.</source>
-        <target>Ali nažalost, ne misliš to stvarno.</target>
+        <target>Cred că nu o spui din suflet.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CURRENT CARD:&#10;%@" xml:space="preserve">
         <source>CURRENT CARD:
 %@</source>
-        <target>TRENUTNA KARTICA:
+        <target>CARD CURENT:
 %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DISABLED" xml:space="preserve">
         <source>DISABLED</source>
-        <target>DISABLED</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ENABLED" xml:space="preserve">
         <source>ENABLED</source>
-        <target>ENABLED</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Employee #%lld" xml:space="preserve">
         <source>Employee #%lld</source>
-        <target>Zaposleni #%lld</target>
+        <target>Angajat #%lld</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Every Time You Find Yourself Here, It’s Because You Chose To Come Back." xml:space="preserve">
         <source>Every Time You Find Yourself Here, It’s Because You Chose To Come Back.</source>
-        <target>Svaki put kada se nadješ ovde, je zato što si odlučio da se vratiš.</target>
+        <target>De Fiecare Dată Când Apari Aici, E Pentru Că Tu Ai Ales.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="GAME OVER" xml:space="preserve">
         <source>GAME OVER</source>
-        <target>KRAJ IGRE</target>
+        <target>GAME OVER</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I am a person,&#10;you are not" xml:space="preserve">
         <source>I am a person,
 you are not</source>
-        <target>Ja sam osoba,
-ti nisi.</target>
+        <target>Eu sunt o persoană, tu nu ești.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I don’t think severance divides us. I think it brings us together." xml:space="preserve">
         <source>I don’t think severance divides us. I think it brings us together.</source>
-        <target>Ne mislim da nas "severance" razdvaja. Mislim da nas približava.</target>
+        <target>Nu cred că diviziunea ne desparte. Cred că ne unește.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I figured it out. The goats lay the eggs." xml:space="preserve">
         <source>I figured it out. The goats lay the eggs.</source>
-        <target>Provalila sam. Koze ležu jaja.</target>
+        <target>Mi-am dat seama. Caprele depun ouă.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you are a soldier, do not fight for my freedom." xml:space="preserve">
         <source>If you are a soldier, do not fight for my freedom.</source>
-        <target>Ako si vojnik, ne bori se za moju slobodu.</target>
+        <target>Dacă nu ești un soldat, nu lupta pentru libertatea mea.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you want a hug, go to hell and find your mother." xml:space="preserve">
         <source>If you want a hug, go to hell and find your mother.</source>
-        <target>Ako želiš zagrljaj, idi u pakao i nadji svoju kevu.</target>
+        <target>Dacă vrei o îmbrățișare, du-te dracu și găsește-o pe mă-ta.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Illumination beyond all" xml:space="preserve">
         <source>Illumination beyond all</source>
-        <target>Iluminacija, iznad svega.</target>
+        <target>Iluminarea este peste orice altceva.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="In the middle of industry, is dust." xml:space="preserve">
         <source>In the middle of industry, is dust.</source>
-        <target>Srž industruje je prah.</target>
+        <target>În mijlocul industriei, este doar praf.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="It is in unity, shall we find progress.&#10;- Karl Eagan" xml:space="preserve">
         <source>It is in unity, shall we find progress.
 - Karl Eagan</source>
-        <target>U ujedinjavanju, ćemo pronaći napredak.
+        <target>Ar trebui să găsim progresul prin unitate.
 - Karl Eagan</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Let’s burn this place to the ground." xml:space="preserve">
         <source>Let’s burn this place to the ground.</source>
-        <target>Spalimo ovo mesto do temelja.</target>
+        <target>Haide să dăm dracului locul ăsta.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NOTHING" xml:space="preserve">
         <source>NOTHING</source>
-        <target>NIŠTA</target>
+        <target>NIMIC</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="New in" xml:space="preserve">
         <source>New in</source>
-        <target>Novo</target>
+        <target>Nou în</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OFF" xml:space="preserve">
         <source>OFF</source>
-        <target>OFF</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ON" xml:space="preserve">
         <source>ON</source>
-        <target>ON</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OWNED" xml:space="preserve">
         <source>OWNED</source>
-        <target>KUPLJENO</target>
+        <target>DEȚINUT</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open or closed?...Both." xml:space="preserve">
         <source>Open or closed?...Both.</source>
-        <target>Otvorena ili zatvorena?...Oba.</target>
+        <target>Inchis sau deschis?...Ambele deodată.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remember The Spicy Candy." xml:space="preserve">
         <source>Remember The Spicy Candy.</source>
-        <target>Setite se začinjenih slatkiša.</target>
+        <target>Amintește-ți de Bomboana Picantă.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="SVRD FLOOR ACCESS" xml:space="preserve">
         <source>SVRD FLOOR ACCESS</source>
-        <target>PRISTUP SVRD SPRATU</target>
+        <target>ACCES PE ETAJUL DIVIZAT</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="She's Alive!" xml:space="preserve">
         <source>She's Alive!</source>
-        <target>Živa je!</target>
+        <target>E în viață!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Support game development and gain access to:&#10;&#10;• no ADS&#10;• basic access card&#10;• all floors access&#10;• new app icon" xml:space="preserve">
@@ -159,12 +155,13 @@ ti nisi.</target>
 • basic access card
 • all floors access
 • new app icon</source>
-        <target>Podržite razvoj igrice i dobićete pristup:
+        <target>Ajută dezvoltarea jocului, în schimb primești:
 
-• bez REKLAMA
-• obična pristupna kartica
-• pristup svim spratovima
-• nova ikonica</target>
+• reclame dezactivate
+• cardul de acces de bază
+• acces la toate etajele
+• o iconiță nouă
+</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Support game development and gain access to:&#10;&#10;• no ADS&#10;• custom card with your name&#10;• all floors access&#10;• new app icon" xml:space="preserve">
@@ -174,89 +171,86 @@ ti nisi.</target>
 • custom card with your name
 • all floors access
 • new app icon</source>
-        <target>Podržite razvoj igrice i dobićete pristup:
+        <target>Ajută dezvoltarea jocului, în schimb primești:
 
-• bez REKLAMA
-• posebna kartica sa vašim imenom
-• pristup svim spratovima
-• nova ikonica</target>
+• reclame dezactivate
+• numele tău pe cardul de acces 
+• acces la toate etajele
+• o iconiță nouă</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Music Dance Experience Is ON" xml:space="preserve">
         <source>The Music Dance Experience Is ON</source>
-        <target>"The Music Dance Experience" kreće!</target>
+        <target>Experiența de Muzică și Dans e AICI.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Numbers Were Scary." xml:space="preserve">
         <source>The Numbers Were Scary.</source>
-        <target>Brojevi su bili strašni.</target>
+        <target>M-am Speriat De Numere.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The surest way to tame a prisoner is to let him believe he’s free." xml:space="preserve">
         <source>The surest way to tame a prisoner is to let him believe he’s free.</source>
-        <target>Najsigurniji način da ukrotiš zarobljenika, je da mu dozvoliš da pomisli da je slobodan.</target>
+        <target>Cea mai sigură metodă de a calma un prizonier e să îl faci să creadă că e liber. </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unknown, Unknown, Delaware, Unknown, Unknown." xml:space="preserve">
         <source>Unknown, Unknown, Delaware, Unknown, Unknown.</source>
-        <target>Nepoznato, Nepoznato, Delaware, Nepoznato, Nepoznato.</target>
+        <target>Necunoscut, Necunoscut, Brăila, Necunoscut, Necunoscut.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Upgrade plan to edit the name" xml:space="preserve">
         <source>Upgrade plan to edit the name</source>
-        <target>Unapredi plan da edituješ ime</target>
+        <target>Achiziționează un pachet pentru a edita numele.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Upon request, I can also perform a hug." xml:space="preserve">
         <source>Upon request, I can also perform a hug.</source>
-        <target>Po zahtevu, mogu Vam ponuditi zagrljaj.</target>
+        <target>La cerere, te pot îmbrățișa.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Version %@" xml:space="preserve">
         <source>Version %@</source>
+        <target>Versiune %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome,&#10;%@" xml:space="preserve">
         <source>Welcome,
 %@</source>
-        <target>Dobrodošao,
+        <target>Bun Venit,
 %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome,&#10;employee" xml:space="preserve">
         <source>Welcome,
 employee</source>
-        <target>Dobrodošao,
-zaposleni</target>
+        <target>Bun Venit, Angajat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="What's for dinner, kids?" xml:space="preserve">
         <source>What's for dinner, kids?</source>
-        <target>Š'a ima za večeru, deco?</target>
+        <target>Ce este la cină, copii? </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="What, indeed, is &quot;you&quot;?" xml:space="preserve">
         <source>What, indeed, is "you"?</source>
-        <target>Šta si ustvari, "ti"?</target>
+        <target>Ce este de fapt, "persoana ta"?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You have reached&#10;%@ completion.&#10;And earned:" xml:space="preserve">
         <source>You have reached
 %@ completion.
 And earned:</source>
-        <target>Kompletirao si
-%@ progresa.
-I zaradio:</target>
+        <target>Ai reușit să completezi %@. Ai primit:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your employee card seems to have ads included." xml:space="preserve">
         <source>Your employee card seems to have ads included.</source>
-        <target>Vaša kartica zaposlenog ima reklame izgleda.</target>
+        <target>Cardul tău de angajat pare să aibă reclame incluse. </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="[%@]" xml:space="preserve">
         <source>[%@]</source>
-        <target>[%@]</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="[eval]" xml:space="preserve">
@@ -266,76 +260,73 @@ I zaradio:</target>
       </trans-unit>
       <trans-unit id="ads" xml:space="preserve">
         <source>ads</source>
-        <target>ads</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="again" xml:space="preserve">
         <source>again</source>
-        <target>opet</target>
+        <target>din nou</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="buy for %@" xml:space="preserve">
         <source>buy for %@</source>
-        <target>kupi za %@</target>
+        <target>cumpără pentru %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="by emin" xml:space="preserve">
         <source>by emin</source>
-        <target>by emin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="employee" xml:space="preserve">
         <source>employee</source>
-        <target>zaposleni</target>
+        <target>angajat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="great" xml:space="preserve">
         <source>great</source>
-        <target>sjajno</target>
+        <target>minunat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="help us localize" xml:space="preserve">
         <source>help us localize</source>
-        <target>pomozite nam u lokalizaciji</target>
+        <target>ajuta-ne locaze</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="how to play" xml:space="preserve">
         <source>how to play</source>
-        <target>kako igrati</target>
+        <target>cum se joacă</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="insert card to start the game" xml:space="preserve">
         <source>insert card to start the game</source>
-        <target>ubaci karticu da startuješ igricu</target>
+        <target>introdu cardul ca să începi jocul</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="leave a review" xml:space="preserve">
         <source>leave a review</source>
-        <target>ostavi ocenu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="level" xml:space="preserve">
         <source>level</source>
-        <target>nivo</target>
+        <target>nivel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="level %@" xml:space="preserve">
         <source>level %@</source>
-        <target>nivo %@</target>
+        <target>nivel %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="made with" xml:space="preserve">
         <source>made with</source>
-        <target>napravljeno sa</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="no ads" xml:space="preserve">
         <source>no ads</source>
+        <target>reclame dezactivate</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="view shop" xml:space="preserve">
         <source>view shop</source>
-        <target>vidi radnju</target>
+        <target>magazin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="• added lock assist button&#10;• change difficulty mid-game&#10;• added sounds to success&#10;• added sounds for failure&#10;• code cleanup" xml:space="preserve">
@@ -348,7 +339,7 @@ I zaradio:</target>
       </trans-unit>
       <trans-unit id="↓ Care to upgrade? ↓" xml:space="preserve">
         <source>↓ Care to upgrade? ↓</source>
-        <target>↓ Želiš da unaprediš pristup? ↓</target>
+        <target>↓ Dorești să faci upgrade? ↓</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="🎉" xml:space="preserve">

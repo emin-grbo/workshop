@@ -1,155 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="SVRD/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="sr">
+  <file original="SVRD/en.lproj/InfoPlist.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>SVRD</source>
+        <target>SVRD</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
-  <file original="SVRD/en.lproj/Localizable.strings" source-language="en" target-language="sr" datatype="plaintext">
+  <file original="SVRD/en.lproj/Localizable.strings" source-language="en" target-language="nl" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
     </header>
     <body>
       <trans-unit id="A Handshake Is Available Upon Request." xml:space="preserve">
         <source>A Handshake Is Available Upon Request.</source>
-        <target>Stisak ruke je dozvoljen nakon zahteva.</target>
+        <target>Handen Schudden Is Op Verzoek Beschikbaar.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ADS DISABLED" xml:space="preserve">
+        <source>ADS DISABLED</source>
+        <target>ADVERTENTIES UITGESCHAKELD</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ADS ENABLED" xml:space="preserve">
+        <source>ADS ENABLED</source>
+        <target>ADVERTENTIES INGESCHAKELD</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="But I'm afraid you still don't mean it." xml:space="preserve">
         <source>But I'm afraid you still don't mean it.</source>
-        <target>Ali nažalost, ne misliš to stvarno.</target>
+        <target>Maar ik ben bang dat je het nog steeds niet meent.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CURRENT CARD:&#10;%@" xml:space="preserve">
         <source>CURRENT CARD:
 %@</source>
-        <target>TRENUTNA KARTICA:
+        <target>HUIDIGE KAART:
 %@</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="DISABLED" xml:space="preserve">
-        <source>DISABLED</source>
-        <target>DISABLED</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="ENABLED" xml:space="preserve">
-        <source>ENABLED</source>
-        <target>ENABLED</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Employee #%lld" xml:space="preserve">
         <source>Employee #%lld</source>
-        <target>Zaposleni #%lld</target>
+        <target>Medewerker #%lld</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Every Time You Find Yourself Here, It’s Because You Chose To Come Back." xml:space="preserve">
         <source>Every Time You Find Yourself Here, It’s Because You Chose To Come Back.</source>
-        <target>Svaki put kada se nadješ ovde, je zato što si odlučio da se vratiš.</target>
+        <target>Elke Keer Als Je Jezelf Hier Terugvindt, Is Dat Omdat Je Zelf Gekozen Hebt Terug Te Komen.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="GAME OVER" xml:space="preserve">
         <source>GAME OVER</source>
-        <target>KRAJ IGRE</target>
+        <target>GAME OVER</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I am a person,&#10;you are not" xml:space="preserve">
         <source>I am a person,
 you are not</source>
-        <target>Ja sam osoba,
-ti nisi.</target>
+        <target>Ik ben een mens,
+jij bent dat niet</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I don’t think severance divides us. I think it brings us together." xml:space="preserve">
         <source>I don’t think severance divides us. I think it brings us together.</source>
-        <target>Ne mislim da nas "severance" razdvaja. Mislim da nas približava.</target>
+        <target>Ik denk niet dat ontslag ons verdeeld. Het brengt ons dichter bij elkaar.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="I figured it out. The goats lay the eggs." xml:space="preserve">
         <source>I figured it out. The goats lay the eggs.</source>
-        <target>Provalila sam. Koze ležu jaja.</target>
+        <target>Ik heb het uitgevogeld. De geiten leggen de eieren.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you are a soldier, do not fight for my freedom." xml:space="preserve">
         <source>If you are a soldier, do not fight for my freedom.</source>
-        <target>Ako si vojnik, ne bori se za moju slobodu.</target>
+        <target>Als je een soldaat bent, vecht dan niet voor mijn vrijheid.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you want a hug, go to hell and find your mother." xml:space="preserve">
         <source>If you want a hug, go to hell and find your mother.</source>
-        <target>Ako želiš zagrljaj, idi u pakao i nadji svoju kevu.</target>
+        <target>Als je een knuffel wilt, ga naar de hel en zoek je moeder.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Illumination beyond all" xml:space="preserve">
         <source>Illumination beyond all</source>
-        <target>Iluminacija, iznad svega.</target>
+        <target>Verlichting boven alles</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="In the middle of industry, is dust." xml:space="preserve">
         <source>In the middle of industry, is dust.</source>
-        <target>Srž industruje je prah.</target>
+        <target>In het midden van de industrie, bevindt zich stof.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="It is in unity, shall we find progress.&#10;- Karl Eagan" xml:space="preserve">
         <source>It is in unity, shall we find progress.
 - Karl Eagan</source>
-        <target>U ujedinjavanju, ćemo pronaći napredak.
+        <target>Het is in eenheid, waar we voortuitgang vinden.
 - Karl Eagan</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Let’s burn this place to the ground." xml:space="preserve">
         <source>Let’s burn this place to the ground.</source>
-        <target>Spalimo ovo mesto do temelja.</target>
+        <target>Laten we deze plaats totaal platbranden.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NOTHING" xml:space="preserve">
         <source>NOTHING</source>
-        <target>NIŠTA</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="New in" xml:space="preserve">
-        <source>New in</source>
-        <target>Novo</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="OFF" xml:space="preserve">
-        <source>OFF</source>
-        <target>OFF</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="ON" xml:space="preserve">
-        <source>ON</source>
-        <target>ON</target>
+        <target>NIKS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OWNED" xml:space="preserve">
         <source>OWNED</source>
-        <target>KUPLJENO</target>
+        <target>OWNED</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open or closed?...Both." xml:space="preserve">
         <source>Open or closed?...Both.</source>
-        <target>Otvorena ili zatvorena?...Oba.</target>
+        <target>Open of gesloten?...Beide.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remember The Spicy Candy." xml:space="preserve">
         <source>Remember The Spicy Candy.</source>
-        <target>Setite se začinjenih slatkiša.</target>
+        <target>Denk Aan Het Pittige Snoepje.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="SVRD FLOOR ACCESS" xml:space="preserve">
         <source>SVRD FLOOR ACCESS</source>
-        <target>PRISTUP SVRD SPRATU</target>
+        <target>SVRD VERDIEPING TOEGANG</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="She's Alive!" xml:space="preserve">
         <source>She's Alive!</source>
-        <target>Živa je!</target>
+        <target>Ze Leeft!</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Support game development and gain access to:&#10;&#10;• no ADS&#10;• basic access card&#10;• all floors access&#10;• new app icon" xml:space="preserve">
@@ -159,12 +145,12 @@ ti nisi.</target>
 • basic access card
 • all floors access
 • new app icon</source>
-        <target>Podržite razvoj igrice i dobićete pristup:
+        <target>Steun de game-ontwikkeling en krijg toegang tot:
 
-• bez REKLAMA
-• obična pristupna kartica
-• pristup svim spratovima
-• nova ikonica</target>
+• geen advertenties
+• gepersonaliseerd kaar met jouw naam
+• toegang tot alle verdiepingen
+• nieuw appicoon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Support game development and gain access to:&#10;&#10;• no ADS&#10;• custom card with your name&#10;• all floors access&#10;• new app icon" xml:space="preserve">
@@ -174,185 +160,125 @@ ti nisi.</target>
 • custom card with your name
 • all floors access
 • new app icon</source>
-        <target>Podržite razvoj igrice i dobićete pristup:
+        <target>Steun de game-ontwikkeling en krijg toegang tot:
 
-• bez REKLAMA
-• posebna kartica sa vašim imenom
-• pristup svim spratovima
-• nova ikonica</target>
+• geen advertenties
+• gepersonaliseerd kaar met jouw naam
+• toegang tot alle verdiepingen
+• nieuw appicoon</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Music Dance Experience Is ON" xml:space="preserve">
         <source>The Music Dance Experience Is ON</source>
-        <target>"The Music Dance Experience" kreće!</target>
+        <target>De Muziek Dans Ervaring Is Geactiveerd</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The Numbers Were Scary." xml:space="preserve">
         <source>The Numbers Were Scary.</source>
-        <target>Brojevi su bili strašni.</target>
+        <target>De Cijfers Zijn Beangstigend.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The surest way to tame a prisoner is to let him believe he’s free." xml:space="preserve">
         <source>The surest way to tame a prisoner is to let him believe he’s free.</source>
-        <target>Najsigurniji način da ukrotiš zarobljenika, je da mu dozvoliš da pomisli da je slobodan.</target>
+        <target>De meest betrouwbare manier om een gevangene te temmen, is door hem te laten geloven dat hij vrij is. </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unknown, Unknown, Delaware, Unknown, Unknown." xml:space="preserve">
         <source>Unknown, Unknown, Delaware, Unknown, Unknown.</source>
-        <target>Nepoznato, Nepoznato, Delaware, Nepoznato, Nepoznato.</target>
+        <target>Onbekend, Onbekend, Delaware, Onbekend, Onbekend.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Upgrade plan to edit the name" xml:space="preserve">
         <source>Upgrade plan to edit the name</source>
-        <target>Unapredi plan da edituješ ime</target>
+        <target>Upgrade abonnement om de naam te wijzigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Upon request, I can also perform a hug." xml:space="preserve">
         <source>Upon request, I can also perform a hug.</source>
-        <target>Po zahtevu, mogu Vam ponuditi zagrljaj.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Version %@" xml:space="preserve">
-        <source>Version %@</source>
+        <target>Op verzoek kan ik een knuffel geven.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome,&#10;%@" xml:space="preserve">
         <source>Welcome,
 %@</source>
-        <target>Dobrodošao,
+        <target>Welkom,
 %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome,&#10;employee" xml:space="preserve">
         <source>Welcome,
 employee</source>
-        <target>Dobrodošao,
-zaposleni</target>
+        <target>Welkom,
+medewerker</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="What's for dinner, kids?" xml:space="preserve">
         <source>What's for dinner, kids?</source>
-        <target>Š'a ima za večeru, deco?</target>
+        <target>Wat eten we, kinderen?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="What, indeed, is &quot;you&quot;?" xml:space="preserve">
         <source>What, indeed, is "you"?</source>
-        <target>Šta si ustvari, "ti"?</target>
+        <target>Wat, inderdaad, ben "jij"?</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="You have reached&#10;%@ completion.&#10;And earned:" xml:space="preserve">
         <source>You have reached
 %@ completion.
 And earned:</source>
-        <target>Kompletirao si
-%@ progresa.
-I zaradio:</target>
+        <target>Je hebt nu
+%@ voltooid.
+En daarmee verdiend:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Your employee card seems to have ads included." xml:space="preserve">
         <source>Your employee card seems to have ads included.</source>
-        <target>Vaša kartica zaposlenog ima reklame izgleda.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="[%@]" xml:space="preserve">
-        <source>[%@]</source>
-        <target>[%@]</target>
+        <target>Je medewerkerskaart lijkt advertenties te bevatten.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="[eval]" xml:space="preserve">
         <source>[eval]</source>
-        <target>[eval]</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="ads" xml:space="preserve">
-        <source>ads</source>
-        <target>ads</target>
+        <target>[evalueren]</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="again" xml:space="preserve">
         <source>again</source>
-        <target>opet</target>
+        <target>weer</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="buy for %@" xml:space="preserve">
         <source>buy for %@</source>
-        <target>kupi za %@</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="by emin" xml:space="preserve">
-        <source>by emin</source>
-        <target>by emin</target>
+        <target>koop voor %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="employee" xml:space="preserve">
         <source>employee</source>
-        <target>zaposleni</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="great" xml:space="preserve">
-        <source>great</source>
-        <target>sjajno</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="help us localize" xml:space="preserve">
-        <source>help us localize</source>
-        <target>pomozite nam u lokalizaciji</target>
+        <target>medewerker</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="how to play" xml:space="preserve">
         <source>how to play</source>
-        <target>kako igrati</target>
+        <target>hoe te spelen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="insert card to start the game" xml:space="preserve">
         <source>insert card to start the game</source>
-        <target>ubaci karticu da startuješ igricu</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="leave a review" xml:space="preserve">
-        <source>leave a review</source>
-        <target>ostavi ocenu</target>
+        <target>voer de kaart in om het spel te starten</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="level" xml:space="preserve">
         <source>level</source>
-        <target>nivo</target>
+        <target>level</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="level %@" xml:space="preserve">
         <source>level %@</source>
-        <target>nivo %@</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="made with" xml:space="preserve">
-        <source>made with</source>
-        <target>napravljeno sa</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="no ads" xml:space="preserve">
-        <source>no ads</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="view shop" xml:space="preserve">
-        <source>view shop</source>
-        <target>vidi radnju</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="• added lock assist button&#10;• change difficulty mid-game&#10;• added sounds to success&#10;• added sounds for failure&#10;• code cleanup" xml:space="preserve">
-        <source>• added lock assist button
-• change difficulty mid-game
-• added sounds to success
-• added sounds for failure
-• code cleanup</source>
+        <target>level %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="↓ Care to upgrade? ↓" xml:space="preserve">
         <source>↓ Care to upgrade? ↓</source>
-        <target>↓ Želiš da unaprediš pristup? ↓</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="🎉" xml:space="preserve">
-        <source>🎉</source>
+        <target>↓ Wil je upgraden? ↓</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>

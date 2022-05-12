@@ -1,7 +1,7 @@
 {
   "developmentRegion" : "en",
   "project" : "SVRD.xcodeproj",
-  "targetLocale" : "es",
+  "targetLocale" : "en",
   "toolInfo" : {
     "toolBuildNumber" : "13E113",
     "toolID" : "com.apple.dt.xcode",
