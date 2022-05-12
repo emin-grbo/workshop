@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SVRD/en.lproj/InfoPlist.strings" source-language="en" target-language="sv" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SVRD</source>
+        <target>SVRD</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SVRD/en.lproj/Localizable.strings" source-language="en" target-language="sv" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
+    </header>
+    <body>
+      <trans-unit id="A Handshake Is Available Upon Request." xml:space="preserve">
+        <source>A Handshake Is Available Upon Request.</source>
+        <target>Ett Handslag Är Tillgängligt Vid Efterfrågan.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ADS DISABLED" xml:space="preserve">
+        <source>ADS DISABLED</source>
+        <target>REKLAM AVAKTIVERAT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ADS ENABLED" xml:space="preserve">
+        <source>ADS ENABLED</source>
+        <target>REKLAM AKTIVERAT</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="But I'm afraid you still don't mean it." xml:space="preserve">
+        <source>But I'm afraid you still don't mean it.</source>
+        <target>Men jag är rädd att du fortfarande inte menar det.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CURRENT CARD:&#10;%@" xml:space="preserve">
+        <source>CURRENT CARD:
+%@</source>
+        <target>NUVARANDE KORT:
+%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Employee #%lld" xml:space="preserve">
+        <source>Employee #%lld</source>
+        <target>Anställd #%lld</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Every Time You Find Yourself Here, It’s Because You Chose To Come Back." xml:space="preserve">
+        <source>Every Time You Find Yourself Here, It’s Because You Chose To Come Back.</source>
+        <target>Varje Gång Du Finner Dig Själv Här, Är Det För Att Du Valde Att Komma Tillbaka.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="GAME OVER" xml:space="preserve">
+        <source>GAME OVER</source>
+        <target>GAME OVER</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I am a person,&#10;you are not" xml:space="preserve">
+        <source>I am a person,
+you are not</source>
+        <target>Jag är en person,
+det är inte du</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I don’t think severance divides us. I think it brings us together." xml:space="preserve">
+        <source>I don’t think severance divides us. I think it brings us together.</source>
+        <target>Jag tror inte splittring delar oss. Jag tror det för oss samman.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="I figured it out. The goats lay the eggs." xml:space="preserve">
+        <source>I figured it out. The goats lay the eggs.</source>
+        <target>Jag kom på det. Getterna lägger äggen.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you are a soldier, do not fight for my freedom." xml:space="preserve">
+        <source>If you are a soldier, do not fight for my freedom.</source>
+        <target>Om du är en soldat, slåss inte för min frihet.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you want a hug, go to hell and find your mother." xml:space="preserve">
+        <source>If you want a hug, go to hell and find your mother.</source>
+        <target>Om du vill ha en kram, dra åt helvete och hitta din mor.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Illumination beyond all" xml:space="preserve">
+        <source>Illumination beyond all</source>
+        <target>Illuminering bortom allt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="In the middle of industry, is dust." xml:space="preserve">
+        <source>In the middle of industry, is dust.</source>
+        <target>I mitten av industri, finns damm.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="It is in unity, shall we find progress.&#10;- Karl Eagan" xml:space="preserve">
+        <source>It is in unity, shall we find progress.
+- Karl Eagan</source>
+        <target>Det är i enighet vi ska finna framgång.
+- Karl Eagan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Let’s burn this place to the ground." xml:space="preserve">
+        <source>Let’s burn this place to the ground.</source>
+        <target>Nu bränner vi det här stället till marken.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NOTHING" xml:space="preserve">
+        <source>NOTHING</source>
+        <target>INGENTING</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OWNED" xml:space="preserve">
+        <source>OWNED</source>
+        <target>ÄGD</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open or closed?...Both." xml:space="preserve">
+        <source>Open or closed?...Both.</source>
+        <target>Öppen eller stängd?...Båda.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remember The Spicy Candy." xml:space="preserve">
+        <source>Remember The Spicy Candy.</source>
+        <target>Kom Ihåg Det Kryddiga Godiset.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SVRD FLOOR ACCESS" xml:space="preserve">
+        <source>SVRD FLOOR ACCESS</source>
+        <target>SVRD VÅNINGSTILLTRÄDE</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="She's Alive!" xml:space="preserve">
+        <source>She's Alive!</source>
+        <target>Hon Lever!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Support game development and gain access to:&#10;&#10;• no ADS&#10;• basic access card&#10;• all floors access&#10;• new app icon" xml:space="preserve">
+        <source>Support game development and gain access to:
+
+• no ADS
+• basic access card
+• all floors access
+• new app icon</source>
+        <target>Stöd spelutveckling och få tillgång till:
+
+• ingen REKLAM
+• grundläggande tillträdeskort
+• tillträde till alla våningar
+• ny app-ikon</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Support game development and gain access to:&#10;&#10;• no ADS&#10;• custom card with your name&#10;• all floors access&#10;• new app icon" xml:space="preserve">
+        <source>Support game development and gain access to:
+
+• no ADS
+• custom card with your name
+• all floors access
+• new app icon</source>
+        <target>Stöd spelutveckling och få tillgång till:
+
+• ingen REKLAM
+• särskilt tillträdeskort med ditt namn
+• tillträde till alla våningar
+• ny app-ikon</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Music Dance Experience Is ON" xml:space="preserve">
+        <source>The Music Dance Experience Is ON</source>
+        <target>Musikdansupplevelsen Är PÅ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Numbers Were Scary." xml:space="preserve">
+        <source>The Numbers Were Scary.</source>
+        <target>Numren Var Otäcka.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The surest way to tame a prisoner is to let him believe he’s free." xml:space="preserve">
+        <source>The surest way to tame a prisoner is to let him believe he’s free.</source>
+        <target>Det säkraste sättet att tämja en fånge är att låta honom tro att han är fri.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unknown, Unknown, Delaware, Unknown, Unknown." xml:space="preserve">
+        <source>Unknown, Unknown, Delaware, Unknown, Unknown.</source>
+        <target>Okänt, Okänt, Delaware, Okänt, Okänt.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Upgrade plan to edit the name" xml:space="preserve">
+        <source>Upgrade plan to edit the name</source>
+        <target>Uppgradera plan för att redigera namnet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Upon request, I can also perform a hug." xml:space="preserve">
+        <source>Upon request, I can also perform a hug.</source>
+        <target>Vid förfrågan kan jag också utföra en kram.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome,&#10;%@" xml:space="preserve">
+        <source>Welcome,
+%@</source>
+        <target>Välkommen,
+%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome,&#10;employee" xml:space="preserve">
+        <source>Welcome,
+employee</source>
+        <target>Välkommen,
+anställd</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What's for dinner, kids?" xml:space="preserve">
+        <source>What's for dinner, kids?</source>
+        <target>Vad blir det för mat, ungar?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What, indeed, is &quot;you&quot;?" xml:space="preserve">
+        <source>What, indeed, is "you"?</source>
+        <target>Vad, i själva verket, är "du"?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You have reached&#10;%@ completion.&#10;And earned:" xml:space="preserve">
+        <source>You have reached
+%@ completion.
+And earned:</source>
+        <target>Du har nått
+%@ fullbordande.
+Och tjänat:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your employee card seems to have ads included." xml:space="preserve">
+        <source>Your employee card seems to have ads included.</source>
+        <target>Ditt anställningskort verkar ha reklam inkluderat.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="[eval]" xml:space="preserve">
+        <source>[eval]</source>
+        <target>[eval]</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="again" xml:space="preserve">
+        <source>again</source>
+        <target>igen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="buy for %@" xml:space="preserve">
+        <source>buy for %@</source>
+        <target>köp för %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="employee" xml:space="preserve">
+        <source>employee</source>
+        <target>anställd</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="how to play" xml:space="preserve">
+        <source>how to play</source>
+        <target>hur man spelar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="insert card to start the game" xml:space="preserve">
+        <source>insert card to start the game</source>
+        <target>sätt in kortet för att starta spelet</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="level" xml:space="preserve">
+        <source>level</source>
+        <target>nivå</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="level %@" xml:space="preserve">
+        <source>level %@</source>
+        <target>nivå %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="↓ Care to upgrade? ↓" xml:space="preserve">
+        <source>↓ Care to upgrade? ↓</source>
+        <target>↓ Vill du uppgradera? ↓</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
