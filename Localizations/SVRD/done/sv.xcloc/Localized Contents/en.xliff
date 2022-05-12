@@ -12,7 +12,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="SVRD/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="SVRD/en.lproj/Localizable.strings" source-language="en" target-language="sv" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.3" build-num="13E113"/>
     </header>
