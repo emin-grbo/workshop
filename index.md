@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/21968377/144684699-cdb661fd-5b1e-441a-bd51-3527b4cdd0c4.png" alt="alt text" width="600">
 
-# 📟 About
+## 📟 About
 
 location| age |UX design|iOS dev|Current 💼|
 |:------|:----|:--------|:------|:---------|
 🇳🇴    |`37` |`10+`yrs |`5`yrs |`TIDAL`   |
 
-# 💲 MRR
+## 💲 MRR
 
 | jan |feb  |mar  |apr  |may  |jun  |jul  |aug  |
 |:----|:----|:----|:----|:----|:----|:----|:----|
@@ -15,16 +15,16 @@ location| age |UX design|iOS dev|Current 💼|
 ---
 
 
-##### Current Project
+###### Current Project
 # Language Learning Dragon, Bily
 Bily is a bilingual bearded dragon with a flair for
 
 
-# Apps
+## Apps
 
-# Projects
-## Books
+## Projects
+### Books
 ### How an Egg Timer App got me every job
 
-# Presenter
+## Presenter
 ### https://www.youtube.com/watch?v=y21C2aj84PE
