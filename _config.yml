@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: "emin's workshop"
-description: place where I take care of all my apps and projects
+description: place where I take care of all my projects. Take a seat 🪑.
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
