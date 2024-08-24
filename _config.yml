@@ -4,5 +4,5 @@ plugins:
 
 title: "emin's workshop"
 description: place where I take care of all my apps and projects
-show_downloads: true
+show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
