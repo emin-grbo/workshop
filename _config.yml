@@ -2,7 +2,7 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: emin grbo
-description: personal site about my projects, ongoing or otherwise
+title: "emin's workshop"
+description: place where I take care of all my apps and projects
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
