@@ -33,8 +33,17 @@ Capture words that matter to you by adding words from your surroundings, making 
 Strengthen your memory with custom **flashcards, wordlists and phrases**. At your own pace, without streaks or achievements.
 <br>
 
+###### Books
+## How an Egg Timer App got me every job
+A battle plan for junior devs, this book is guaranteed to increase your chances of landing your first (or 5th) job. It has singlehandadely allowed me to cruise through numerous job interviews and continues to do this to this day. I poured all my knowledge tips and tricks into this 100page book.
+
 <br><br>
-## 📱 Apps
+###### Presenter
+### Women Who Code Mobile
+📹 [Video](https://www.youtube.com/watch?v=y21C2aj84PE)
+
+<br><br>
+# 📱 Apps
 ![chip-site-icon](https://github.com/user-attachments/assets/bfafe727-038b-41a9-874f-6e7f25ff77a4)
 ### C.H.I.P
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/no/app/c-h-i-p-productive-ghostwriter/id6444570763)
@@ -100,11 +109,3 @@ SwiftUI view database, which can provide you with a code for a swiftui view in a
 My take on a budgeting app, which provides you with a daily carry-over budget, allowing for more controll over your spending.
 <br><br>
 **MRR Contribution: <5%**
- 
-## Projects
-### Books
-<br><br>
-### How an Egg Timer App got me every job
-<br><br>
-## Presenter
-### https://www.youtube.com/watch?v=y21C2aj84PE
