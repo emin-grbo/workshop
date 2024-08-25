@@ -23,7 +23,7 @@ struct EminGrbo {
 
 ---
 
-<br><br><br>
+<br><br>
 ###### Current Project
 # Language Learning Dragon, Bily
 Bily is a bilingual bearded dragon with a flair for personal development. It's take on the language learning is such where you are not supplied with ready-made word packs which you need to learn, but puts YOU in the driver seat and lets you define your vocabulary.
@@ -32,16 +32,17 @@ Capture words that matter to you by adding words from your surroundings, making 
 <br><br>
 Strengthen your memory with custom **flashcards, wordlists and phrases**. At your own pace, without streaks or achievements.
 <br>
-<br><br><br>
 
 <br><br>
 ## Apps
 ![chip-site-icon](https://github.com/user-attachments/assets/bfafe727-038b-41a9-874f-6e7f25ff77a4)
 ### C.H.I.P.
 C.H.I.P. - Chatty Helping & Informational Pal, is my take on AI assistants. It is exceedingly simple and good looking app (at least I think so), that gets the job done with 0 ads. It allows un-paid users to fully use the app, with occasional popup for a paid version (a man has got to eat).
+
 <br><br>
 **MRR Contribution: 80%**
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+<br>
+![Build Status](https://img.shields.io/badge/AppStore-Active-brightgreen)
 
 
 
