@@ -36,6 +36,9 @@ Strengthen your memory with custom **flashcards, wordlists and phrases**. At you
 
 <br><br>
 ## Apps
+### C.H.I.P.
+![image](![chip-site-icon](https://github.com/user-attachments/assets/64811878-a76a-472c-baa4-8ce1c9e3af5d)
+)
 
 
 
