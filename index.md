@@ -38,7 +38,7 @@ Strengthen your memory with custom **flashcards, wordlists and phrases**. At you
 
 ![chip-site-icon](https://github.com/user-attachments/assets/bfafe727-038b-41a9-874f-6e7f25ff77a4)
 ### C.H.I.P
-[![AppStore](https://img.shields.io/badge/AppStore-Available-brightgreen)](https://www.apple.com/app-store/](https://apps.apple.com/no/app/c-h-i-p-productive-ghostwriter/id6444570763)
+[![AppStore](https://img.shields.io/badge/AppStore-Available-brightgreen)](https://apps.apple.com/no/app/c-h-i-p-productive-ghostwriter/id6444570763)
 <br>
 C.H.I.P. - Chatty Helping & Informational Pal, is my take on AI assistants. It is exceedingly simple and good looking app (at least I think so), that gets the job done with 0 ads. It allows un-paid users to fully use the app, with occasional popup for a paid version (a man has got to eat).
 <br><br>
