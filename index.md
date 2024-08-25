@@ -39,12 +39,12 @@ A battle plan for junior devs, this book is guaranteed to increase your chances 
 
 <br><br>
 ###### Presenter
->> Women Who Code Mobile [📹 Video](https://www.youtube.com/watch?v=y21C2aj84PE)
->> Høyskolen Kristiania
->> iOS Dev Happy Hour
->> iOS Leads Essentials Podcast [📹 Video](https://www.essentialdeveloper.com/articles/how-to-stop-feeling-stuck-as-an-ios-dev-amp-progress-with-clarity-ios-lead-essentials-podcast-052)
->> Indie goodies interview [🔗 Link](https://x.com/onmyway133/status/1744292634514895162)
->> AppForce 1 Podcast [🔊 Link](https://appforce1.net/podcast/shownotes/?episode=Emin+Grbo%2C+App+Developer+at+Tidal%2C+creator+of+un%3Asafe)
+*   Women Who Code Mobile [📹 Video](https://www.youtube.com/watch?v=y21C2aj84PE)
+*   Høyskolen Kristiania
+*   iOS Dev Happy Hour
+*   iOS Leads Essentials Podcast [📹 Video](https://www.essentialdeveloper.com/articles/how-to-stop-feeling-stuck-as-an-ios-dev-amp-progress-with-clarity-ios-lead-essentials-podcast-052)
+*   Indie goodies interview [🔗 Link](https://x.com/onmyway133/status/1744292634514895162)
+*   AppForce 1 Podcast [🔊 Link](https://appforce1.net/podcast/shownotes/?episode=Emin+Grbo%2C+App+Developer+at+Tidal%2C+creator+of+un%3Asafe)
 
 <br><br>
 # 📱 Apps
