@@ -28,13 +28,18 @@ struct EminGrbo {
 # Language Learning Dragon, Bily
 Bily is a bilingual bearded dragon with a flair for personal development. It's take on the language learning is such where you are not supplied with ready-made word packs which you need to learn, but puts YOU in the driver seat and lets you define your vocabulary.
 <br><br>
-Capture words that matter to you. Add words from your surroundings, making your language learning more relevant.
+Capture words that matter to you by adding words from your surroundings, making your language learning more relevant.
 <br><br>
 Strengthen your memory with custom **flashcards, wordlists and phrases**. At your own pace, without streaks or achievements.
 <br>
 <br><br><br>
 
+<br><br>
 ## Apps
+
+
+
+
 <br><br>
 ## Projects
 ### Books
