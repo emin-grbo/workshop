@@ -60,7 +60,7 @@ C.H.I.P. - Chatty Helping & Informational Pal, is my take on AI assistants. It i
 ![unsafe-site-icon](https://github.com/user-attachments/assets/49122478-0816-40ab-a8d4-73729862023f)
 ### un:safe
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/un-safe/id1582291621)
-unsafe - An app primarily made for the watch, later ported to iOS due to high demand. It allows you to "break" the lock using vibrations, reminiscent of safe-breaking movies from the past.
+ unsafe - An app primarily made for the watch, later ported to iOS due to high demand. It allows you to "break" the lock using vibrations, reminiscent of safe-breaking movies from the past.
 <br><br>
 I was fortunate to be featured on several app review sites, and it even blew up on Reddit one weekend, allowing me to earn over $3,000 in just 2 days!
 <br><br>
@@ -71,7 +71,7 @@ I was fortunate to be featured on several app review sites, and it even blew up 
 ![runnyegg-site-icon](https://github.com/user-attachments/assets/89cbd144-4687-4526-8fdd-9dc6ed1277ec)
 ### Runny egg
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/runnyegg/id1492171626)
-My first app has brought me numerous job offers and serves as the inspiration for a book I'm writing (more on that below). This project holds a special place in my heart. 
+ My first app has brought me numerous job offers and serves as the inspiration for a book I'm writing (more on that below). This project holds a special place in my heart. 
 <br><br>
 Though it's a simple egg timer app, it harbors more secrets than it may appear.
 <br><br>
@@ -86,7 +86,7 @@ It was featured in https://www.appiconbook.com (iOS variant)
 ![retroboi-site-icon](https://github.com/user-attachments/assets/77657406-b060-40d1-b58b-a3ca4736dd51)
 ### Retro Boi
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/retroboi/id1505200052)
-A nostalgic sticker pack. Mainly wanted to see how stickerpacks work, but also extremely in love with the old Macintosh design and I needed to channel that 😅.
+ A nostalgic sticker pack. Mainly wanted to see how stickerpacks work, but also extremely in love with the old Macintosh design and I needed to channel that 😅.
 <br><br>
 **MRR Contribution: 0%**
 
@@ -95,7 +95,7 @@ A nostalgic sticker pack. Mainly wanted to see how stickerpacks work, but also e
 ![storkui-site-icon](https://github.com/user-attachments/assets/5967c48e-727e-43c6-a0c4-6c06d668f090)
 ### StorkUI
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/no/app/storkui/id1587494060)
-SwiftUI view database, which can provide you with a code for a swiftui view in a single tap. Open-sourced.
+ SwiftUI view database, which can provide you with a code for a swiftui view in a single tap. Open-sourced.
 <br><br>
 **MRR Contribution: 0%**
 
@@ -104,6 +104,6 @@ SwiftUI view database, which can provide you with a code for a swiftui view in a
 ![spendersson-site-icon](https://github.com/user-attachments/assets/f8da810e-5d88-4e5f-b2ca-1959435f1b83)
 ### spendersson
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/no/app/daily-budget-app-spendersson/id1552349143)
-My take on a budgeting app, which provides you with a daily carry-over budget, allowing for more controll over your spending.
+ My take on a budgeting app, which provides you with a daily carry-over budget, allowing for more controll over your spending.
 <br><br>
 **MRR Contribution: <5%**
