@@ -54,17 +54,26 @@ I was fortunate to be featured on several app review sites, and it even blew up 
 **MRR Contribution: 10%**
 <br><br>
 ![runnyegg-site-icon](https://github.com/user-attachments/assets/89cbd144-4687-4526-8fdd-9dc6ed1277ec)
-### runny egg
+### Runny egg
 [![AppStore](https://img.shields.io/badge/AppStore-Available-brightgreen)](https://apps.apple.com/us/app/runnyegg/id1492171626)
 <br>
 My first app has brought me numerous job offers and serves as the inspiration for a book I'm writing (more on that below). This project holds a special place in my heart. 
 <br><br>
 Though it's a simple egg timer app, it harbors more secrets than it may appear.
 <br><br>
+It was featured in https://www.appiconbook.com (iOS variant)
+<br><br>
 **MRR Contribution: 0%**
+<br>
 **Lovely Contribution: 100♥️**
-
-
+<br><br>
+![retroboi-site-icon](https://github.com/user-attachments/assets/77657406-b060-40d1-b58b-a3ca4736dd51)
+### Retro Boi
+[![AppStore](https://img.shields.io/badge/AppStore-Available-brightgreen)](https://apps.apple.com/us/app/retroboi/id1505200052)
+<br>
+A nostalgic sticker pack. Mainly wanted to see how stickerpacks work, but also extremely in love with the old Macintosh design and I needed to channel that 😅.
+<br>
+**MRR Contribution: 0%**
 
 <br><br>
 ## Projects
