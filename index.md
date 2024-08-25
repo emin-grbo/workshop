@@ -35,7 +35,6 @@ Strengthen your memory with custom **flashcards, wordlists and phrases**. At you
 
 <br><br>
 ## Apps
-
 ![chip-site-icon](https://github.com/user-attachments/assets/bfafe727-038b-41a9-874f-6e7f25ff77a4)
 ### C.H.I.P
 [![AppStore](https://img.shields.io/badge/AppStore-Available-brightgreen)](https://apps.apple.com/no/app/c-h-i-p-productive-ghostwriter/id6444570763)
@@ -43,6 +42,16 @@ Strengthen your memory with custom **flashcards, wordlists and phrases**. At you
 C.H.I.P. - Chatty Helping & Informational Pal, is my take on AI assistants. It is exceedingly simple and good looking app (at least I think so), that gets the job done with 0 ads. It allows un-paid users to fully use the app, with occasional popup for a paid version (a man has got to eat).
 <br><br>
 **MRR Contribution: 80%**
+
+![unsafe-site-icon](https://github.com/user-attachments/assets/49122478-0816-40ab-a8d4-73729862023f)
+### un:safe
+[![AppStore](https://img.shields.io/badge/AppStore-Available-brightgreen)](https://apps.apple.com/us/app/un-safe/id1582291621)
+<br>
+unsafe - An app primarily made for the watch, later ported to iOS due to high demand. It allows you to "break" the lock using vibrations, reminiscent of safe-breaking movies from the past.
+<br><br>
+I was fortunate to be featured on several app review sites, and it even blew up on Reddit one weekend, allowing me to earn over $3,000 in just 2 days!
+<br><br>
+**MRR Contribution: 10%**
 
 <br><br>
 ## Projects
