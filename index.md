@@ -24,21 +24,26 @@ struct EminGrbo {
 ---
 
 <br><br>
-###### 👨‍💻Current Project
+###### Current Project
 # Language Learning Dragon, Bily
 Bily is a bilingual bearded dragon with a flair for personal development. It's take on the language learning is such where you are not supplied with ready-made word packs which you need to learn, but puts YOU in the driver seat and lets you define your vocabulary.
 <br><br>
 Capture words that matter to you by adding words from your surroundings, making your language learning more relevant.
 <br><br>
 Strengthen your memory with custom **flashcards, wordlists and phrases**. At your own pace, without streaks or achievements.
+## Status
+Almost beta ready, app has active Widgets and SwiftData seems to function well. MVP if 90% done. All that is left is the other 90%
+
+## Roadmap
+- [] Add AI tenses generation
 
 <br><br>
-###### 📕Books
+###### Books
 # How an Egg Timer App got me every job [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://eggtimerbook.framer.website)
 A battle plan for junior devs, this book is guaranteed to increase your chances of landing your first (or 5th) job. It has singlehandadely allowed me to cruise through numerous job interviews and continues to do this to this day. I poured all my knowledge tips and tricks into this 100page book.
 
 <br><br>
-###### 🎬Presenter
+###### Presenter
 *   Women Who Code Mobile [📹 Video](https://www.youtube.com/watch?v=y21C2aj84PE)
 *   Høyskolen Kristiania
 *   iOS Dev Happy Hour
@@ -47,7 +52,7 @@ A battle plan for junior devs, this book is guaranteed to increase your chances 
 *   AppForce 1 Podcast [🔊 Link](https://appforce1.net/podcast/shownotes/?episode=Emin+Grbo%2C+App+Developer+at+Tidal%2C+creator+of+un%3Asafe)
 
 <br><br>
-###### 📱Apps
+###### Apps
 ![chip-site-icon](https://github.com/user-attachments/assets/bfafe727-038b-41a9-874f-6e7f25ff77a4)
 ### C.H.I.P
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/no/app/c-h-i-p-productive-ghostwriter/id6444570763)
@@ -55,7 +60,7 @@ C.H.I.P. - Chatty Helping & Informational Pal, is my take on AI assistants. It i
 <br><br>
 **MRR Contribution: 80%**
 
-<br><br><br>
+<br><br>
  
 ![unsafe-site-icon](https://github.com/user-attachments/assets/49122478-0816-40ab-a8d4-73729862023f)
 ### un:safe
@@ -66,7 +71,7 @@ I was fortunate to be featured on several app review sites, and it even blew up 
 <br><br>
 **MRR Contribution: 10%**
 
-<br><br><br>
+<br><br>
  
 ![runnyegg-site-icon](https://github.com/user-attachments/assets/89cbd144-4687-4526-8fdd-9dc6ed1277ec)
 ### Runny egg
@@ -81,7 +86,7 @@ It was featured in https://www.appiconbook.com (iOS variant)
 <br>
 **Lovely Contribution: 100♥️**
 
-<br><br><br>
+<br><br>
  
 ![retroboi-site-icon](https://github.com/user-attachments/assets/77657406-b060-40d1-b58b-a3ca4736dd51)
 ### Retro Boi
@@ -90,7 +95,7 @@ It was featured in https://www.appiconbook.com (iOS variant)
 <br><br>
 **MRR Contribution: 0%**
 
-<br><br><br>
+<br><br>
 
 ![storkui-site-icon](https://github.com/user-attachments/assets/5967c48e-727e-43c6-a0c4-6c06d668f090)
 ### StorkUI
@@ -99,7 +104,7 @@ It was featured in https://www.appiconbook.com (iOS variant)
 <br><br>
 **MRR Contribution: 0%**
 
-<br><br><br>
+<br><br>
 
 ![spendersson-site-icon](https://github.com/user-attachments/assets/f8da810e-5d88-4e5f-b2ca-1959435f1b83)
 ### spendersson
