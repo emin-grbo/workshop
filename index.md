@@ -31,12 +31,10 @@ Bily is a bilingual bearded dragon with a flair for personal development. It's t
 Capture words that matter to you by adding words from your surroundings, making your language learning more relevant.
 <br><br>
 Strengthen your memory with custom **flashcards, wordlists and phrases**. At your own pace, without streaks or achievements.
-#### Status
-Almost beta ready, app has active Widgets and SwiftData seems to function well. MVP if 90% done. All that is left is the other 90%
 
 #### Roadmap
-- [ ] Add AI tenses generation
-- [x] test
+- [ ]  Add AI tenses generation
+- [ ]  Release
 
 <br><br>
 ###### Books
