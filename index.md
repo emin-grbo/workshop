@@ -32,9 +32,10 @@ Capture words that matter to you by adding words from your surroundings, making 
 <br><br>
 Strengthen your memory with custom **flashcards, wordlists and phrases**. At your own pace, without streaks or achievements.
 
+Started posting updates as a video blog on X (https://x.com/emin_ui/status/1831724037774438525)
+
 #### Roadmap
-- [ ]  Add AI tenses generation
-- [ ]  Release
+- [ ] Content aware auto-complete 
 
 <br><br>
 ###### Books
