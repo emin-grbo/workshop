@@ -45,6 +45,7 @@ Started posting updates as a video blog on X (https://x.com/emin_ui/status/18317
 
 <br><br>
 ###### Presenter
+*   AppRise Conference - Presenter ("NO to 5, why do we work?")
 *   Women Who Code Mobile [📹 Video](https://www.youtube.com/watch?v=y21C2aj84PE)
 *   Høyskolen Kristiania
 *   iOS Dev Happy Hour
