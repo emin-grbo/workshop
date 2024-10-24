@@ -25,22 +25,16 @@ struct EminGrbo {
 
 <br><br>
 ###### Current Project
-# Language Learning Dragon, Bily
-Bily is a bilingual bearded dragon with a flair for personal development. It's take on the language learning is such where you are not supplied with ready-made word packs which you need to learn, but puts YOU in the driver seat and lets you define your vocabulary.
-<br><br>
-Capture words that matter to you by adding words from your surroundings, making your language learning more relevant.
-<br><br>
-Strengthen your memory with custom **flashcards, wordlists and phrases**. At your own pace, without streaks or achievements.
-
-Started posting updates as a video blog on X (https://x.com/emin_ui/status/1831724037774438525)
+# Gipsy Chess
+On of the fondest memories from my high-school is playing this in class. Funnily enough it is the FIRST UX design work I even did for a client. I will try to utilize Cursor as much as possible for this project.
 
 #### Roadmap
-- [ ] Content aware auto-complete 
+- [ ] Let Cursor do all the work
 
 <br><br>
 ###### Books
 # How an Egg Timer App got me every job
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://eggtimerbook.framer.website)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://eggtimerbook.com)
  A battle plan for junior devs, this book is guaranteed to increase your chances of landing your first (or 5th) job. It has singlehandadely allowed me to cruise through numerous job interviews and continues to do this to this day. I poured all my knowledge tips and tricks into this 100page book.
 
 <br><br>
