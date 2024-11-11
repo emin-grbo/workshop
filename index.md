@@ -1,5 +1,12 @@
 <img src="https://user-images.githubusercontent.com/21968377/144684699-cdb661fd-5b1e-441a-bd51-3527b4cdd0c4.png" alt="alt text" width="600">
 
+If you have a feature request or a bug report, [this](https://github.com/emin-grbo/workshop/issues) is the place to report it.
+
+open the issue tab and tap "new issue". It should be clear from that point :) 
+#
+if you want to reach out directly, there is always [twitter](https://www.twitter.com/emin_ui)
+#
+
 <br><br>
 ## 📟 About
 
@@ -25,11 +32,8 @@ struct EminGrbo {
 
 <br><br>
 ###### Current Project
-# Gipsy Chess
-On of the fondest memories from my high-school is playing this in class. Funnily enough it is the FIRST UX design work I even did for a client. I will try to utilize Cursor as much as possible for this project.
-
-#### Roadmap
-- [ ] Let Cursor do all the work
+# Mushroom ID 🍄 
+An app that identifies mushrooms and informs you of their origin and toxisity.
 
 <br><br>
 ###### Books
