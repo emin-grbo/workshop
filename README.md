@@ -17,4 +17,4 @@ open the issue tab and tap "new issue". It should be clear from that point :)
 #
 
 ### how do I propose a feature?
-same as you would report a bug, just choose a feature option ☝️
+same as you would report a bug, just choose a feature option ☝️.
