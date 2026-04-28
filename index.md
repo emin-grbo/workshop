@@ -4,7 +4,7 @@ If you have a feature request or a bug report, [this](https://github.com/emin-gr
 
 open the issue tab and tap "new issue". It should be clear from that point :) 
 #
-if you want to reach out directly, there is always [twitter](https://www.twitter.com/emin_ui)
+if you want to reach out directly, there is always [X](https://x.com/emin_builds)
 #
 
 <br><br>
@@ -13,10 +13,10 @@ if you want to reach out directly, there is always [twitter](https://www.twitter
 ```swift
 struct EminGrbo {
     let country: Location = 🇳🇴
-    let age: Validity = 37
+    let age: Validity = 39
     let uxDesign: Expertise = >10
-    let iOSDev: Expertise = 5
-    let employment: Career = TIDAL
+    let iOSDev: Expertise = 7
+    let employment: Career = STØ
     let plan: Future = indie
 }
 ```
@@ -24,16 +24,14 @@ struct EminGrbo {
 <br><br>
 ## 💲 MRR
 
-| jan |feb  |mar  |apr  |may  |jun  |jul  |aug  |
-|:----|:----|:----|:----|:----|:----|:----|:----|
-|`300`|`350`|`400`|`400`|`450`|`500`|`550`|`230`|
+#### 49
 
 ---
 
 <br><br>
 ###### Current Project
-# Mushroom ID 🍄 
-An app that identifies mushrooms and informs you of their origin and toxisity.
+# Marked For Deletion 🍄 
+A photo gallery cleaner app which helps you get rid of 90% of your library shitty photos.
 
 <br><br>
 ###### Books
