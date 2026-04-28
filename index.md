@@ -1,4 +1,4 @@
-<img width="1559" height="1009" alt="image" src="https://github.com/user-attachments/assets/f1e0c6f9-04e8-42c0-b076-77c37f86b4f3" />
+<img style="max-width: 100%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/f1e0c6f9-04e8-42c0-b076-77c37f86b4f3" />
 
 If you have a feature request or a bug report, [this](https://github.com/emin-grbo/workshop/issues) is the place to report it.
 
