@@ -1,10 +1,10 @@
-<img src="https://user-images.githubusercontent.com/21968377/144684699-cdb661fd-5b1e-441a-bd51-3527b4cdd0c4.png" alt="alt text" width="600">
+<img style="max-width: 100%; height: auto;" alt="image" src="https://github.com/user-attachments/assets/f1e0c6f9-04e8-42c0-b076-77c37f86b4f3" />
 
 If you have a feature request or a bug report, [this](https://github.com/emin-grbo/workshop/issues) is the place to report it.
 
 open the issue tab and tap "new issue". It should be clear from that point :) 
 #
-if you want to reach out directly, there is always [twitter](https://www.twitter.com/emin_ui)
+if you want to reach out directly, there is always [X](https://x.com/emin_builds)
 #
 
 <br><br>
@@ -13,10 +13,10 @@ if you want to reach out directly, there is always [twitter](https://www.twitter
 ```swift
 struct EminGrbo {
     let country: Location = 🇳🇴
-    let age: Validity = 37
+    let age: Validity = 39
     let uxDesign: Expertise = >10
-    let iOSDev: Expertise = 5
-    let employment: Career = TIDAL
+    let iOSDev: Expertise = 7
+    let employment: Career = STØ
     let plan: Future = indie
 }
 ```
@@ -24,16 +24,16 @@ struct EminGrbo {
 <br><br>
 ## 💲 MRR
 
-| jan |feb  |mar  |apr  |may  |jun  |jul  |aug  |
-|:----|:----|:----|:----|:----|:----|:----|:----|
-|`300`|`350`|`400`|`400`|`450`|`500`|`550`|`230`|
+#### 49
 
 ---
 
 <br><br>
 ###### Current Project
-# Mushroom ID 🍄 
-An app that identifies mushrooms and informs you of their origin and toxisity.
+<img width="121" height="117" alt="icon-small" src="https://github.com/user-attachments/assets/25918d31-ecb8-4494-9b80-2393e228f309" />
+
+# Marked For Deletion ❌
+A photo gallery cleaner app which helps you get rid of 90% of your library shitty photos.
 
 <br><br>
 ###### Books
@@ -53,10 +53,16 @@ An app that identifies mushrooms and informs you of their origin and toxisity.
 
 <br><br>
 ###### Apps
-![chip-site-icon](https://github.com/user-attachments/assets/bfafe727-038b-41a9-874f-6e7f25ff77a4)
-### C.H.I.P
-[![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/no/app/c-h-i-p-productive-ghostwriter/id6444570763)
-C.H.I.P. - Chatty Helping & Informational Pal, is my take on AI assistants. It is exceedingly simple and good looking app (at least I think so), that gets the job done with 0 ads. It allows un-paid users to fully use the app, with occasional popup for a paid version (a man has got to eat).
+
+<div>
+  <img width="121" height="117" alt="icon-small" src="https://github.com/user-attachments/assets/25918d31-ecb8-4494-9b80-2393e228f309" />
+</div>
+
+### Marked For Deletion.
+
+[![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/un-safe/id1582291621)
+Mark it. Review it. Delete it.
+Marked for Deletion is the fastest way to clean up your camera roll. Swipe through your photos, flag the ones you don't need, and delete them when you're ready.
 <br><br>
 **MRR Contribution: 80%**
 
@@ -76,7 +82,7 @@ I was fortunate to be featured on several app review sites, and it even blew up 
 ![runnyegg-site-icon](https://github.com/user-attachments/assets/89cbd144-4687-4526-8fdd-9dc6ed1277ec)
 ### Runny egg
 [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/runnyegg/id1492171626)
- My first app has brought me numerous job offers and serves as the inspiration for a book I'm writing (more on that below). This project holds a special place in my heart. 
+ My first app has brought me numerous job offers and serves as the inspiration for a book I'm writing (more on that above). This project holds a special place in my heart. 
 <br><br>
 Though it's a simple egg timer app, it harbors more secrets than it may appear.
 <br><br>
@@ -96,19 +102,3 @@ It was featured in https://www.appiconbook.com (iOS variant)
 **MRR Contribution: 0%**
 
 <br><br>
-
-![storkui-site-icon](https://github.com/user-attachments/assets/5967c48e-727e-43c6-a0c4-6c06d668f090)
-### StorkUI
-[![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/no/app/storkui/id1587494060)
- SwiftUI view database, which can provide you with a code for a swiftui view in a single tap. Open-sourced.
-<br><br>
-**MRR Contribution: 0%**
-
-<br><br>
-
-![spendersson-site-icon](https://github.com/user-attachments/assets/f8da810e-5d88-4e5f-b2ca-1959435f1b83)
-### spendersson
-[![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/no/app/daily-budget-app-spendersson/id1552349143)
- My take on a budgeting app, which provides you with a daily carry-over budget, allowing for more controll over your spending.
-<br><br>
-**MRR Contribution: <5%**
