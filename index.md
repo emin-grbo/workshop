@@ -60,7 +60,7 @@ A photo gallery cleaner app which helps you get rid of 90% of your library shitt
 
 ### Marked For Deletion.
 
-[![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/us/app/un-safe/id1582291621)
+[![AppStore](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://apps.apple.com/app/id6760240739)
 Mark it. Review it. Delete it.
 Marked for Deletion is the fastest way to clean up your camera roll. Swipe through your photos, flag the ones you don't need, and delete them when you're ready.
 <br><br>
