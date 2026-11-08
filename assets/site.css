@@ -1,0 +1,184 @@
+/* emin's workshop — one sheet for every page. Night palette taken from
+   the header photo: deep indigo, violet neon, a warm lamp accent. */
+
+:root {
+  --bg: #0b0a1a;
+  --bg-2: #121029;
+  --card: rgba(255, 255, 255, 0.04);
+  --card-hi: rgba(255, 255, 255, 0.07);
+  --line: rgba(255, 255, 255, 0.09);
+  --ink: #ece9ff;
+  --ink-2: #a8a3c7;
+  --ink-3: #6f6a93;
+  --violet: #9b7bff;
+  --cyan: #6fd3ff;
+  --lamp: #ffb45c;
+  --radius: 18px;
+  --mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --display: "Space Grotesk", -apple-system, system-ui, sans-serif;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 600px at 80% -10%, rgba(155, 123, 255, 0.18), transparent 60%),
+    radial-gradient(900px 500px at -10% 30%, rgba(111, 211, 255, 0.08), transparent 60%),
+    var(--bg);
+  color: var(--ink);
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+a { color: var(--violet); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+
+/* ---------- hero ---------- */
+
+.hero { position: relative; }
+.hero-img {
+  display: block;
+  width: 100%;
+  height: min(62vh, 560px);
+  object-fit: cover;
+  object-position: center 35%;
+  mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%);
+}
+.hero-text { margin-top: -120px; position: relative; }
+.eyebrow {
+  font: 600 13px/1 var(--mono);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cyan);
+}
+h1, h2, h3 { font-family: var(--display); letter-spacing: -0.02em; line-height: 1.15; }
+h1 { font-size: clamp(40px, 7vw, 64px); margin: 12px 0 10px; }
+.lede { font-size: 20px; color: var(--ink-2); margin: 0 0 26px; max-width: 34em; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 11px 18px;
+  border-radius: 999px;
+  font-weight: 600; font-size: 15px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+}
+.btn:hover { background: var(--card-hi); text-decoration: none; }
+.btn.primary { background: var(--violet); border-color: transparent; color: #120c2c; }
+.btn.primary:hover { background: #ad93ff; }
+
+/* ---------- sections ---------- */
+
+section { margin: 72px 0; }
+.label {
+  font: 600 12px/1 var(--mono);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0 0 18px;
+}
+h2 { font-size: 30px; margin: 0 0 16px; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 22px;
+}
+
+/* about: the struct + MRR side by side */
+.about { display: grid; gap: 16px; grid-template-columns: 1fr; }
+@media (min-width: 720px) { .about { grid-template-columns: 1fr 220px; } }
+
+pre.code {
+  margin: 0;
+  font: 14px/1.7 var(--mono);
+  overflow-x: auto;
+  color: var(--ink-2);
+}
+.code .kw { color: #ff7ab6; }
+.code .ty { color: var(--cyan); }
+.code .nm { color: var(--ink); }
+.code .va { color: var(--lamp); }
+
+.stat { display: flex; flex-direction: column; justify-content: center; text-align: center; }
+.stat .big {
+  font: 700 64px/1 var(--display);
+  background: linear-gradient(135deg, var(--violet), var(--cyan));
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.stat .small { color: var(--ink-3); font: 600 12px/1 var(--mono); letter-spacing: 0.14em; text-transform: uppercase; margin-top: 10px; }
+
+/* featured project */
+.feature { display: flex; gap: 20px; align-items: center; }
+.feature img { width: 96px; height: 96px; border-radius: 22px; flex: none; box-shadow: 0 12px 40px rgba(155, 123, 255, 0.25); }
+.feature h3 { font-size: 24px; margin: 0 0 4px; }
+.feature p { margin: 0 0 12px; color: var(--ink-2); }
+@media (max-width: 520px) { .feature { flex-direction: column; align-items: flex-start; } }
+
+/* apps grid */
+.apps { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+.app { display: flex; flex-direction: column; gap: 10px; }
+.app-head { display: flex; gap: 12px; align-items: center; }
+.app-head img { width: 52px; height: 52px; border-radius: 13px; flex: none; }
+.app h3 { font-size: 19px; margin: 0; }
+.app p { margin: 0; color: var(--ink-2); font-size: 15px; flex: 1; }
+.app-foot { display: flex; justify-content: space-between; align-items: center; gap: 8px; font-size: 14px; }
+.chip {
+  font: 600 12px/1 var(--mono);
+  padding: 6px 9px;
+  border-radius: 999px;
+  background: rgba(155, 123, 255, 0.14);
+  color: var(--violet);
+  white-space: nowrap;
+}
+.chip.warm { background: rgba(255, 180, 92, 0.14); color: var(--lamp); }
+
+/* talks */
+.talks { list-style: none; padding: 0; margin: 0; }
+.talks li {
+  display: flex; justify-content: space-between; gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+.talks li:last-child { border-bottom: 0; }
+.talks .kind { color: var(--ink-3); font: 13px/1.6 var(--mono); white-space: nowrap; }
+
+/* ---------- legal pages ---------- */
+
+.page { padding-top: 56px; }
+.back { font: 600 13px/1 var(--mono); letter-spacing: 0.08em; }
+.page h1 { font-size: clamp(34px, 6vw, 48px); }
+.page .meta { color: var(--ink-3); font: 13px/1.6 var(--mono); margin-bottom: 36px; }
+.page h2 { font-size: 22px; margin: 40px 0 10px; }
+.page h3 { font-size: 18px; margin: 26px 0 8px; }
+.page p, .page li { color: var(--ink-2); }
+.page strong { color: var(--ink); }
+.page ul { padding-left: 20px; }
+.page .card { margin: 16px 0; }
+.page .card h3 { margin-top: 0; }
+.toc { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 8px; }
+
+/* ---------- footer ---------- */
+
+footer {
+  border-top: 1px solid var(--line);
+  margin-top: 96px;
+  padding: 28px 0 48px;
+  color: var(--ink-3);
+  font-size: 14px;
+}
+footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
+footer nav { display: flex; gap: 18px; }
+footer a { color: var(--ink-2); }
+.stat .asof { color: var(--ink-3); font-size: 12px; margin-top: 8px; }
+.feature .actions { margin-top: 4px; }

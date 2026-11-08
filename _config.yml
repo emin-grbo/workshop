@@ -1,8 +1,10 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
+# Plain HTML site (index.html, privacy.html, tc.html + assets/site.css) —
+# no theme; Jekyll only copies the files through.
 title: "emin's workshop"
 description: place where I take care of all my projects. Take a seat 🪑.
-show_downloads: false
-# google_analytics: [Your Google Analytics tracking ID]
+exclude:
+  - Localizations
+  - howtoPhotos
+  - README.md
+  - Gemfile
+  - LICENSE
